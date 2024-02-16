@@ -1,2 +1,2 @@
 # placement_project_ml
-This GitHub project deploys a machine learning model to classify students into "placed" or "not placed" categories based on academic scores, backlogs, and related metrics.
+This GitHub project hosts a machine learning model logistic regression for predicting whether students will be placed or not based on various factors such as their academic scores, iq , and other relevant parameters.
